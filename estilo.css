@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wdth,wght@75..100,400..900&display=swap');
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(148, 158, 0);
+    font-family;"Tektur", sans-serif"
+    margin: 5%;
+    line-height: 1.6;
+}
+main{
+
+}
