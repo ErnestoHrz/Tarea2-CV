@@ -70,3 +70,46 @@ header h2{
     height: auto;
     display: block;
 }
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color:rgb(0, 0, 0)
+}
+section{
+    background-color: rgba(224, 101, 7, 0.761);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+section hr{
+    border:0;
+    height: 2px;
+    background:#000000;
+    margin: 10px 0;
+}
+
+section hr{
+    margin: 10px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 5px 0;
+}
+i{
+    color:#981f04;
+    margin-right: 8px;
+}
+address p {
+    margin:5px;
+}
+address a{
+    color:blue;
+    text-decoration: none;
+}
+article{
+    margin-bottom: 15px;
+}
